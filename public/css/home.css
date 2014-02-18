@@ -1,0 +1,51 @@
+body {
+	background-color: #ffffff;
+}
+
+h1, h2, h4, p, a{
+	font-family: 'Josefin Sans', sans-serif;
+	color: #2a4466
+}
+
+h1 {
+	font-size: 40px;
+	padding-left: 15%;
+}
+
+h2 {
+	padding-left: 15%;
+}
+
+h4 {
+	margin-bottom: 20px;
+	font-size: 18px;
+	color: #193d6d;
+	font-weight: 400;
+	padding-right: 15%;
+	padding-left: 15%;
+	line-height: 30px;
+	padding-top:0px;
+	margin-top:0px;
+}
+
+p {
+	font-family: "Lucida Sans Unicode";
+	color: #878787;
+	font-size: 80%;
+	font-weight: lighter;
+	padding-right: 18%;
+	padding-left: 18%;
+	line-height: 200%;
+}
+
+a {
+	font-weight: 400;
+	color: #639ceb;
+	text-decoration:none;
+}
+
+img {
+	display:block;
+	margin: auto;
+	height: 190px;
+}
